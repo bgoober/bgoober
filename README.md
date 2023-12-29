@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello all, 
 <!--
 **bgoober/bgoober** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
   - Solana dapp development
   - Autonomous agent development and go-to-market agent products based on fetch.ai's framework
 
- Full-time/all-in on crypto and building a better, more open, sovereign, and free future.
+I have formal Product Owner/Manager experience in web2, and now I'm full-time/all-in on crypto and building a better, more open, sovereign, and free future. If this resonates with you, then please reach out, I'd love to collaborate!
