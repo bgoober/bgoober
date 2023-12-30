@@ -26,4 +26,4 @@ Here are some ideas to get you started:
   - Solana dapp development
   - Autonomous agent development and go-to-market agent products based on fetch.ai's framework
  
-  Former Prodcut Owner/Manager experience in web2.
+  I am a former Prodcut Owner/Manager from web2, plus GIS experience.
