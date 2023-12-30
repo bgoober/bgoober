@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on:
   - Solana dapp development
   - Autonomous agent development and go-to-market agent products based on fetch.ai's framework
-
-I have formal Product Owner/Manager experience in web2, and now I'm full-time/all-in on crypto and building a better, more open, sovereign, and free future. If this resonates with you, then please reach out, I'd love to collaborate!
+ 
+  Former Prodcut Owner/Manager experience in web2.
