@@ -26,6 +26,6 @@ Here are some ideas to get you started:
   - Solana dapp development
   - Autonomous agent development and go-to-market agent products based on fetch.ai's framework
 
-Creator of Muglies -- https://www.tensor.trade/trade/83fa0532-8491-4e37-8de1-96005abb0572
+Creator of [Muglies](https://www.tensor.trade/trade/83fa0532-8491-4e37-8de1-96005abb0572)
 
   I am a former Prodcut Owner/Manager from web2, plus GIS experience.
