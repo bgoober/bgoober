@@ -26,6 +26,6 @@ Here are some ideas to get you started:
   - Solana dapp development
   - Autonomous agent development and go-to-market agent products based on fetch.ai's framework
 
-Creator of [Muglies](https://www.tensor.trade/trade/83fa0532-8491-4e37-8de1-96005abb0572) -- A creeping 1/1 NFT collection of some ugly mugs I drew by hand.
+Creator of [Muglies](https://www.stargaze.zone/m/stars1qcce9egmgcyltcqx0tw340wuj6zzx44p6348s9ud7urz873h3hhq8d000w/tokens) -- A creeping 1/1 NFT collection of some ugly mugs I drew by hand.
 
   I am a former Prodcut Owner/Manager from web2, plus GIS experience.
