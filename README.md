@@ -12,20 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on:
-  - A Solana dapp/game and an accompanying NFT collection -- reach out if you are interested!
-  - An agent-based browser extension using fetch.ai's agent framework
- 
-- 🌱 I’m currently learning:
-  -  To be more proficient with Solana program development specifically using Rust/anchor framework
-  -  Creating animated art with Asperite
-  -  Developing autonomous agents using fetch.ai's agent framework
-  -  More about AI models and how to host your own, as well as fine-tune it to your needs
-  
-- 👯 I’m looking to collaborate on:
-  - Solana dapp development
-  - Autonomous agent development and go-to-market agent products based on fetch.ai's framework
 
-Creator of [Muglies](https://www.stargaze.zone/m/stars1qcce9egmgcyltcqx0tw340wuj6zzx44p6348s9ud7urz873h3hhq8d000w/tokens) -- A creeping 1/1 NFT collection of some ugly mugs I drew by hand.
 
-  I am a former Prodcut Owner/Manager from web2, plus GIS experience.
