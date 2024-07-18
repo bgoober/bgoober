@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 - [Disburser](https://github.com/bgoober/Disburser) - Built to handle the disbursement of an application's fee revenues to a team of Owners based on their ownership percentage. I built this to accompany the main contract I developed for this cohort.
 
 - [Muglies](https://github.com/bgoober/Muglies) - Just some ugly mugs I drew.
+
+I have previous Product Owner and developer/analyst experience in consumer-facing GIS mapping applications, for web and mobile.
