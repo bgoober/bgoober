@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ### My most recent dev activities:
 
+[pet that dog!](https://pet-that-dog.vercel.app/) << I built this
+
 - I am a 2x [Turbine3](https://turbin3.com/) cohort graduate:
   - Solana Builder's Q2 2024 cohort
     - Built and shipped (devnet) [Over / Under](https://over-under-beta.vercel.app/), a round-based, multiplayer betting game. Under further development.
