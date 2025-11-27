@@ -1,6 +1,6 @@
-I am an entrepreneur and Solana smart-contract and front-end application software developer.
+I am an entrepreneur and Solana smart-contract and front-end application software developer.:man_technologist: 
 
-I am a Certified Part 107 Commercial Drone Pilot, and am currently developing my drone services business and skills. I have previous GIS and Product Owner/Manager experience that I am currently revitalizing and honing into a valuable career path forward. I have a lot of interest in mapping, inspections, disaster response, and ecological surveys. I love the outdoors, native species, and hunting, so I hope to make use of those interests and skills.
+:ufo: I am a Certified Part 107 Commercial Drone Pilot, and am currently developing my drone services business and skills. I have previous GIS and Product Owner/Manager experience that I am currently revitalizing and honing into a valuable career path forward. I have a lot of interest in mapping, inspections, disaster response, and ecological surveys. I love the outdoors, native species, and hunting, so I hope to make use of those interests and skills.
 
 Some of my recent accomplishments:
 
@@ -16,4 +16,11 @@ Some of my recent accomplishments:
 
 While this is my main GitHub account, my other GitHub account, which was used to build the majority of GotSOL, can be found here: [gotsol-dev](https://github.com/gotsol-dev)
 
-Previously, I built a dog-themed SPL token launchpad and interactive application called _pet that dog!_ which you can interact with here: [pet that dog!](https://pet-that-dog.vercel.app/) It's a fun, interactive on-chain program and front-end application that allows you to interact with a "dog", and when you do the dog will mint you one of its tokens each time. It is a full on-chain program that I built from the ground up. I also worked on the artwork myself, though I am not the only artist who did. I may return to this project one day, if it makes sense to do so, and a clear product is envisioned.
+Previously, I built a dog-themed Solana token launchpad and interactive application called _pet that dog!_ which you can interact with here: [pet that dog!](https://pet-that-dog.vercel.app/) It's a fun, interactive on-chain program and front-end application that allows you to interact with a "dog", and when you do the dog will mint you one of its tokens each time. It is a full on-chain program that I built from the ground up. I also worked on the artwork myself, though I am not the only artist who did. I may return to this project one day, if it makes sense to do so, and a clear product is envisioned.
+
+My Skills:
+
+1. Product Manager, Operations Manager, Technologist
+2. Software Developer, back-end and front-end, Solana smart-contract development
+3. Geographic Information Systems (GIS)
+4. Certified Commercial Drone Pilot (Mapping, Surveying, Aerial Photography and Videography, Inspections)
