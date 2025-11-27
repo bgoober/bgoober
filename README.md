@@ -8,7 +8,7 @@ Some of my recent accomplishments:
 
 2. I built the entire Anchor program/contract back-end and its business logic. 
 
-3. I designed and built the majority of the front-end application as well. [GotSOLpay.com](https://gotsolpay.com/)
+3. I designed and built the majority of the front-end application as well.
 
 4. In ~6-8 months I built and launched a fully on-chain business built for Merchants to expand their Point of Sale payment rails to Solana stablecoins, and manage their Inventory and Bookkeeping.
 
