@@ -25,12 +25,13 @@ My Skills:
 3. Geographic Information Systems (GIS)
 4. Certified Commercial Drone Pilot (Mapping, Surveying, Aerial Photography and Videography, Inspections)
 
-Previous Roles I have held:
+Previous and On-going Roles I have held:
 
 1. Co-Founder
 2. Chief Technology Officer
 3. Head of Product
 4. Lead Engineer/Lead Developer
 5. Product Owner
-6. Jr. GIS Specialist
-7. Invasive Species Crew Member
+6. Commercial Drone Pilot (Part 107)
+7. Jr. GIS Specialist
+8. Invasive Species Crew Member
