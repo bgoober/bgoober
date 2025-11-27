@@ -1,6 +1,6 @@
-I am an entrepreneur and Solana smart-contract and front-end application software developer.:man_technologist: 
+I am an entrepreneur and Solana smart-contract and front-end application software developer. &#128187; &#128104;
 
-:ufo: I am a Certified Part 107 Commercial Drone Pilot, and am currently developing my drone services business and skills. I have previous GIS and Product Owner/Manager experience that I am currently revitalizing and honing into a valuable career path forward. I have a lot of interest in mapping, inspections, disaster response, and ecological surveys. I love the outdoors, native species, and hunting, so I hope to make use of those interests and skills.
+&#x1F6F8; I am a Certified Part 107 Commercial Drone Pilot, and am currently developing my drone services business and skills. I have previous GIS and Product Owner/Manager experience that I am currently revitalizing and honing into a valuable career path forward. I have a lot of interest in mapping, inspections, disaster response, and ecological surveys. I love the outdoors, native species, and hunting, so I hope to make use of those interests and skills.
 
 Some of my recent accomplishments:
 
