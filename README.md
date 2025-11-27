@@ -32,6 +32,6 @@ Previous and On-going Roles I have held:
 3. Head of Product
 4. Lead Engineer/Lead Developer
 5. Product Owner
-6. Commercial Drone Pilot (Part 107)
+6. Commercial Drone Pilot (FAA Part 107)
 7. Jr. GIS Specialist
 8. Invasive Species Crew Member
