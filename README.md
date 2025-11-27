@@ -4,7 +4,7 @@ I am an entrepreneur and Solana smart-contract and front-end application softwar
 
 Some of my recent accomplishments:
 
-1. I am the Co-Founder, Chief Technology Officer, Head of Product, and Lead Developer of GotSOL -- A Merchant Point of Sale, Inventory Management System, and Bookeeping product, Built on Solana. [GotSOLpay.com](https://gotsolpay.com/)
+1. I am the Co-Founder, Chief Technology Officer, Head of Product, and Lead Engineer/Lead Developer of GotSOL -- A Merchant Point of Sale, Inventory Management System, and Bookeeping product, Built on Solana. [GotSOLpay.com](https://gotsolpay.com/)
 
 2. I built the entire Anchor program/contract back-end and its business logic. 
 
@@ -24,3 +24,13 @@ My Skills:
 2. Software Developer, back-end and front-end, Solana smart-contract development
 3. Geographic Information Systems (GIS)
 4. Certified Commercial Drone Pilot (Mapping, Surveying, Aerial Photography and Videography, Inspections)
+
+Previous Roles I have held:
+
+1. Co-Founder
+2. Chief Technology Officer
+3. Head of Product
+4. Lead Engineer/Lead Developer
+5. Product Owner
+6. Jr. GIS Specialist
+7. Invasive Species Crew Member
